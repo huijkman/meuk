@@ -1,3 +1,5 @@
-name: Your New Jekyll Site
+name: Huijkman's meuk
 markdown: redcarpet
+safe: true
+lsi: false
 pygments: true
